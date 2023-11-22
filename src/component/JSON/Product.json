@@ -1,0 +1,46 @@
+
+
+{  
+    
+    "name":"watches",
+     
+    
+    "watches":
+      
+    [       
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/j/i/v/-original-imagzbtftgj5gnuv.jpeg?q=70",
+                "name":"Asus(F10)","display":"1.45inch display","price":"$100.00","rating":"4.5","id":1,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/m/d/q/-original-imagrgyzvgskz9c7.jpeg?q=70",
+                "name":"Redmi(NOTE)","display":"1.46inch display","price":"$80.00","rating":"4.1","id":2,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/u/o/i/-original-imagg7k99qqrutsb.jpeg?q=70",
+                "name":"Oppo(FIND)","display":"1.34inch display","price":"$120.00","rating":"4.2","id":3,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/f/1/3/4-6-bxp-marv-neo-rosegold-android-ios-beatxp-yes-original-imagt9fsq8t4ymgm.jpeg?q=70",
+                "name":"Realme(PRO)","display":"1.24inch display","price":"$130.00","rating":"4.5","id":4,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/l/m/6/4-6-bxio2003-bxsm2003-bxsm2001-android-ios-beatxp-yes-original-imaguyfzcesjgfrr.jpeg?q=70",
+                "name":"Apple(IMAC)","display":"1.46inch display","price":"$150.00","rating":"4.6","id":5,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/n/9/n/4-6-bxio2003-bxsm2003-bxsm2001-android-ios-beatxp-yes-original-imaguyghgmfvmgup.jpeg?q=70",
+                "name":"Fastrack (FR)","display":"1.47inch display","price":"$140.00","rating":"4.5","id":6,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/kz1lle80/smartwatch/t/t/p/-original-imagb54swp4xn4na.jpeg?q=70",
+                "name":"Samsang(S2)","display":"1.43inch display","price":"$120.00","rating":"4.4","id":7,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/w/f/m/-original-imagrf4gvgfjj8jf.jpeg?q=70",
+               "name":"Honor(BUZZ)","display":"1.42inch display","price":"$110.00","rating":"4.3","id":8,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/l5ld8y80/smartwatch/f/k/q/-original-imagg8d9hbkhfffg.jpeg?q=70",
+               "name":"ONEPLUS(ce2)","display":"1.43inch display","price":"$146.00","rating":"4.6","id":9,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/y/w/k/-original-imagufrhzuyuzzaz.jpeg?q=70",
+               "name":"Noise(FR1)","display":"1.44inch display","price":"$110.00","rating":"4.5","id":10,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/l5ld8y80/smartwatch/f/k/q/-original-imagg8d9hbkhfffg.jpeg?q=70",
+               "name":"FIRE-BOLT(02)","display":"1.43inch display","price":"$170.00","rating":"4.4","id":11,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/y/w/k/-original-imagufrhzuyuzzaz.jpeg?q=70",
+               "name":"ARMFIT","display":"1.41inch display","price":"$150.00","rating":"4.2","id":12,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/y/w/k/-original-imagufrhzuyuzzaz.jpeg?q=70",
+               "name":"SONY (AT1)","display":"1.41inch display","price":"$150.00","rating":"4.2","id":12,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/y/w/k/-original-imagufrhzuyuzzaz.jpeg?q=70",
+               "name":"Noise (F3)","display":"1.44inch display","price":"$110.00","rating":"4.5","id":10,"heart":false,"cart":false,"count":1},
+            {"img":"https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/f/1/3/4-6-bxp-marv-neo-rosegold-android-ios-beatxp-yes-original-imagt9fsq8t4ymgm.jpeg?q=70",
+               "name":"Realme(C2)","display":"1.24inch display","price":"$130.00","rating":"4.5","id":4,"heart":false,"cart":false,"count":1}
+    ]
+               
+    
+    }
+  
+

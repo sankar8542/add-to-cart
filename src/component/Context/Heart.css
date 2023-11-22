@@ -1,0 +1,38 @@
+.prod{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem;
+    /* text-align: center; */
+    gap: 2rem;
+    background-color:lavender;
+    
+    
+    
+  }
+  .prod1 img{
+       width:17rem;
+       height:15rem;
+       
+       
+
+  }
+  .prod1{
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px white;
+    
+  }
+ 
+  /* .product2{
+      display: flex;
+      justify-content: space-between;
+  } */
+  .prod1 button{
+    padding: 10px;
+    background-color: blue;
+    display: flex;
+    
+    color: azure;
+    border-radius: 10px;
+    
+
+}

@@ -1,0 +1,27 @@
+.cart{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    /* text-align: center; */
+    gap: 2rem;
+    background-color:lavender;
+    /* width: 92%; */
+    
+    
+    
+  }
+  .cart1 img{
+       width:220px;
+       height:220px;
+       
+       
+
+  }
+  .cart1{
+    /* border: 1px solid black; */
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.5);
+    padding: 1rem;
+    background-color: white;
+    line-height: 0.5;
+    
+  }
